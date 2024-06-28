@@ -1,6 +1,6 @@
 # CURSO 1 - PYTHON BÁSICO - SOLYD
 
-Este curso de Python oferece uma introdução abrangente à linguagem, apresentando uma série de ensinamentos fundamentais e essenciais para a compreensão do Python. Os tópicos abordados incluem:
+Este curso de Python oferece uma introdução básica à linguagem, apresentando uma série de ensinamentos fundamentais e essenciais para a compreensão do Python. Os tópicos abordados incluem:
 
 - Operadores lógicos;
 - Strings e listas;
